@@ -10,3 +10,4 @@ int main() {
 	cleanup(&stack1);
 	printf("%d\n", x); // => 20
 }
+
