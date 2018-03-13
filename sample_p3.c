@@ -43,3 +43,4 @@ int pop(Stack *s) {
 void cleanup(Stack *s) {
 	/* 静的スタックについては何もしない */
 }
+

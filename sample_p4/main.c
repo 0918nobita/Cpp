@@ -19,3 +19,4 @@ int main() {
 	ss_cleanup(&stat_stack);
 	printf("%d\n", x); // => 20
 }
+
